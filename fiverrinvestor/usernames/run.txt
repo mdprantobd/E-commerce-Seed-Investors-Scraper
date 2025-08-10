@@ -1,1 +1,0 @@
-python scrape_all_usernames.py
